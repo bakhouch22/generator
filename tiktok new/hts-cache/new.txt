@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:21:02	5142/5142	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%226272da93-239b%22	https://xioziq.github.io/robots.txt		(from )
+18:21:03	59175/59175	---M-Z	200	added ('OK')	text/html	etag:W/%22628bc441-e727%22	https://xioziq.github.io/G/TikCoins/	C:/Users/simo/Desktop/tiktok%20new/xioziq.github.io/G/TikCoins/index.html	(from )
